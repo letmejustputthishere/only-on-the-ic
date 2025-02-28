@@ -1,0 +1,12 @@
+{
+    "canisters": {
+        "backend": {
+            "type": "azle",
+            "main": "src/backend/index.ts",
+            "custom": {
+                "experimental": true
+            },
+            "specified_id": "2222s-4iaaa-aaaaf-ax2uq-cai"
+        }
+    }
+}
